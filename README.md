@@ -1,7 +1,7 @@
 this repo explains how to install TA-LIB on linux based systems  
 for linux:  
 requirments:  
-you need to have python3-dev and make to run ta-lib on your system
+you need to have python3-dev and make to run ta-lib on your system  
 for RedHat based distros:
 ```
 sudo dnf install python3-devel
